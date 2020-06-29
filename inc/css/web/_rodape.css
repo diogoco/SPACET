@@ -1,0 +1,16 @@
+/* rodape */
+.rodape2{
+
+    color:rgb(171, 204, 230);
+    font-size: auto;
+    background-image: url("../../../images/images.jpg");
+   
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    background-attachment: unset;
+    
+}
+

@@ -1,0 +1,26 @@
+/* perfil */
+.perfil{
+    /* background-color: rgb(115, 192, 192); */
+    background:linear-gradient( black,rgb(0, 12, 24));
+    color: black;
+    margin-top: 0px;
+  
+}
+
+.btn-link{
+    text-decoration: none;    
+    color:white;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-link:hover{
+    text-decoration: none;    
+    color: rgba(0, 0, 0, 0.89);
+}
+
+.card-header{
+    background-color: rgb(88, 113, 160);
+    
+}

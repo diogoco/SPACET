@@ -1,0 +1,8 @@
+/* index */
+.index-container{
+
+    background:linear-gradient( black,rgb(0, 12, 24));
+    height:600px;
+    color: black;
+    padding: 40px;
+}

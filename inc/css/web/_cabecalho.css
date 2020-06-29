@@ -1,0 +1,11 @@
+.cabecalho{
+    background-image: url("../../../images/images.jpg");
+
+    width: auto;
+
+    height: 200px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+}
