@@ -26,7 +26,7 @@
         'SELECT * FROM user 
          WHERE id_user = :id_user',$parametros);
          
-          $dir = "http://localhost/SPACET/images/upload/admperfil.png";
+          $dir = "http://localhost/SPACET/images/upload/";
         
         
          $imagem = $dir.$dados[0]["imagem_perfil"];
@@ -45,7 +45,7 @@
         <h4 class="text-center">PERFIL DE user</h4> <br>
         <div class="container-fluid text-center perfil">
 
-        <img src=<?php echo $dir ?> style="width: 150px; height:200px; border: 5px; border-color:antiquewhite">
+       <div class="container" style="border-radius:15%;"> <img src=<?php echo $imagem ?> style="width: 150px; height:150px; border: 5px; border-color:antiquewhite"></div>
         <!-- dados do user -->
         <h5><i class="fa fa-user"></i> <?php echo $dados[0]['nome'] ?></h5>
         <p><i class="fa fa-envelope"></i> <?php echo $dados[0]['email'] ?></p>
