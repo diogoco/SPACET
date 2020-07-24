@@ -1,4 +1,4 @@
-# SPACET
+# SPACET (curso acompanhado)
 Projeto de desenvolvimento web.
 Utilizando ferramentas:
 MySQL,
